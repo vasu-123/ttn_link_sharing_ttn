@@ -3,3 +3,7 @@ WebContent
 build/*
 .classpath
 .project
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+Servers
